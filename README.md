@@ -43,4 +43,5 @@ Using the values pulled from the SQLite database, this program generates a repor
 ## Troubleshooting
 
 - If after running "[file].java" file, it says "Table 'addresses' not found" or "Database 'verisk' not found," then do command + shift + p and type "SQLite: Open Database" and select "verisk.db". This will open the database and you can run the file again.
+- If you have any other concerns / questions, please email me at [higginsjoshuag@gmail.com](higginsjoshuag@gmail.com).
 
