@@ -28,7 +28,7 @@ Using the values pulled from the SQLite database, this program generates a repor
 3. Download "Extension Pack for Java" extension from the marketplace
 4. Cmd + Shift + P to open the command palette.
 5. Type "SQLite: Open Database" and select "verisk.db".
-6. Right click "Populate.java" file and click "Run Java." This will delete all tables and recreate the addresses table. This will take some time to recreate the addresses table.
+6. Right click "Populate.java" file and click "Run Java." This will delete all tables and recreate the addresses table. This will take some time to recreate the addresses table (upwards of 15-20 minutes).
 7. Right click "GetQueryResults.java" file and click "Run Java." This will print out the query results. This also saves the results of the three queries as HashMaps, and as CSV files.
 
 
